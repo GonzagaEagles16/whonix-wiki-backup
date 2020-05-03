@@ -172,14 +172,7 @@ The output of the above command should show signatures on Patrick's key, which s
 * [[OpenPGP|OpenPGP key distribution strategies]]
 
 = License =
-<blockquote>
-Download the {{project_name}} Signing Key wiki page Copyright (C) Amnesia <amnesia at boum dot org> <br />
-Download the {{project_name}} Signing Key wiki page Copyright (C) 2012 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net> <br /> <br />
-
-This program comes with ABSOLUTELY NO WARRANTY; for details see the wiki source code.
-This is free software, and you are welcome to redistribute it
-under certain conditions; see the wiki source code for details.
-</blockquote>
+{{License_Amnesia|{{FULLPAGENAME}}}}
 
 = Footnotes =
 {{reflist|close=1}}
