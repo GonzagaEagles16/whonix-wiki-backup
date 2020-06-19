@@ -6,6 +6,7 @@ title=Boot your existing, installed Debian Host into Live Mode with GRUB LIVE
 |description=Add a Live Mode entry to the grub boot menu on your existing Debian host platform. Stop Persistent Malware. Read-only mode. Make all writes go to non-persistent storage (RAM) instead of the hard disk.
 |image=https://www.whonix.org/w/images/a/a6/Grublive123123.jpg
 }}
+[[image:Grublive123123.jpg|thumb]]
 '''{{free}}'''
 
 One of the primary objectives of <code>grub-live</code> is preventing [[malware|malware]] from gaining persistence and having an unchanged system after reboot. It would require [[Malware#Targeted_Malware_vs_Off-The-Shelf_Malware|targeted]] <ref>
